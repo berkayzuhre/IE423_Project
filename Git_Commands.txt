@@ -1,0 +1,13 @@
+git clone URL
+git add
+git commit -m
+git push origin master
+
+git branch -a
+git branch step1
+git checkout step1
+git checkout -b step2
+
+git add test.txt
+git status
+git reset Head test.txt
